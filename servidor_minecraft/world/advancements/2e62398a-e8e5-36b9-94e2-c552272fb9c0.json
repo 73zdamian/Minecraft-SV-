@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-17 01:15:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 01:06:56 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-17 01:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-17 01:21:58 +0000"
     },
     "done": true
   },
@@ -401,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-17 01:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-17 01:05:28 +0000"
@@ -528,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-17 01:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:14:00 +0000"
@@ -566,6 +590,8 @@
       "minecraft:taiga": "2024-12-17 01:13:00 +0000",
       "minecraft:ocean": "2024-12-17 01:07:07 +0000",
       "minecraft:river": "2024-12-17 01:12:27 +0000",
+      "minecraft:meadow": "2024-12-17 01:19:49 +0000",
+      "minecraft:dripstone_caves": "2024-12-17 01:22:52 +0000",
       "minecraft:plains": "2024-12-17 01:08:05 +0000"
     },
     "done": false
@@ -620,8 +646,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-17 01:22:43 +0000",
+      "mutton": "2024-12-17 01:21:06 +0000",
       "cod": "2024-12-17 01:11:23 +0000",
-      "beef": "2024-12-17 01:13:02 +0000"
+      "beef": "2024-12-17 01:13:02 +0000",
+      "porkchop": "2024-12-17 01:16:36 +0000"
     },
     "done": false
   },
