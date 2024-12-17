@@ -12,11 +12,14 @@
       "minecraft:beach": "2024-12-17 01:07:38 +0000",
       "minecraft:forest": "2024-12-17 00:41:21 +0000",
       "minecraft:taiga": "2024-12-17 01:12:57 +0000",
+      "minecraft:deep_ocean": "2024-12-17 01:54:26 +0000",
+      "minecraft:river": "2024-12-17 01:12:28 +0000",
+      "minecraft:dripstone_caves": "2024-12-17 01:22:49 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-17 01:47:03 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-17 01:49:20 +0000",
       "minecraft:ocean": "2024-12-17 01:07:20 +0000",
       "minecraft:sunflower_plains": "2024-12-17 01:29:09 +0000",
-      "minecraft:river": "2024-12-17 01:12:28 +0000",
       "minecraft:meadow": "2024-12-17 01:22:23 +0000",
-      "minecraft:dripstone_caves": "2024-12-17 01:22:49 +0000",
       "minecraft:plains": "2024-12-17 01:08:18 +0000"
     },
     "done": false
@@ -207,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-17 01:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 01:07:56 +0000"
@@ -249,6 +258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-17 01:04:55 +0000"
@@ -264,6 +279,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-17 01:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 01:51:11 +0000"
     },
     "done": true
   },
@@ -294,6 +315,18 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
     },
     "done": true
   },
@@ -351,6 +384,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-17 01:59:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-17 01:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 01:05:19 +0000"
@@ -378,6 +423,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-17 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-17 01:59:10 +0000"
     },
     "done": true
   },
@@ -465,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-17 01:16:53 +0000"
@@ -537,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-17 01:59:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-17 01:04:55 +0000"
@@ -585,6 +648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-17 01:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-17 01:16:51 +0000"
@@ -600,6 +669,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-17 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
     },
     "done": true
   },
@@ -630,6 +705,18 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-17 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-17 01:47:45 +0000"
     },
     "done": true
   },
@@ -717,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-17 01:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 01:19:40 +0000"
@@ -750,6 +843,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-17 01:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
     },
     "done": true
   },
@@ -821,9 +920,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-17 01:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 01:51:11 +0000"
     },
     "done": true
   },
@@ -995,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-17 01:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-17 01:05:15 +0000"
@@ -1025,6 +1142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-17 01:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-17 01:07:07 +0000"
@@ -1049,6 +1172,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-17 01:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-17 01:47:47 +0000"
     },
     "done": true
   },
@@ -1181,6 +1310,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 01:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:44:54 +0000"
     },
     "done": true
   },

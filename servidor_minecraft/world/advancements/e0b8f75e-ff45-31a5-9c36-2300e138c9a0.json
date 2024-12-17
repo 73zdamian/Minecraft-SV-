@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-17 01:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:11:48 +0000"
@@ -95,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-17 01:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-17 01:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-17 02:03:23 +0000"
     },
     "done": true
   },
@@ -164,6 +182,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 01:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-17 01:50:06 +0000"
     },
     "done": true
   },
@@ -314,6 +338,18 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-17 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-17 02:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-17 02:03:23 +0000"
     },
     "done": true
   },
@@ -482,7 +518,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 01:35:39 +0000",
-      "minecraft:zombie": "2024-12-17 01:11:28 +0000"
+      "minecraft:skeleton": "2024-12-17 01:50:27 +0000",
+      "minecraft:spider": "2024-12-17 01:50:10 +0000",
+      "minecraft:zombie": "2024-12-17 01:11:28 +0000",
+      "minecraft:creeper": "2024-12-17 01:56:51 +0000"
     },
     "done": false
   },
@@ -573,9 +612,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2024-12-17 01:15:49 +0000",
+      "minecraft:savanna_plateau": "2024-12-17 01:58:17 +0000",
       "minecraft:forest": "2024-12-17 01:00:32 +0000",
       "minecraft:river": "2024-12-17 01:16:01 +0000",
       "minecraft:birch_forest": "2024-12-17 01:16:06 +0000",
+      "minecraft:dripstone_caves": "2024-12-17 01:58:22 +0000",
       "minecraft:savanna": "2024-12-17 01:43:07 +0000",
       "minecraft:plains": "2024-12-17 01:35:18 +0000"
     },
@@ -647,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 01:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-17 01:13:07 +0000",
@@ -671,6 +718,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-17 01:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-17 01:56:52 +0000"
     },
     "done": true
   },
