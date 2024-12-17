@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-17 02:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:14:00 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-17 01:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -289,6 +301,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-17 02:09:46 +0000",
       "minecraft:basalt_deltas": "2024-12-17 01:59:31 +0000"
     },
     "done": false
@@ -515,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-17 01:08:28 +0000"
@@ -569,9 +588,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-17 02:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-17 01:05:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -596,6 +627,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-17 01:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -725,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-17 02:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 02:01:49 +0000"
@@ -733,7 +776,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-17 02:11:27 +0000",
       "minecraft:skeleton": "2024-12-17 01:09:15 +0000",
+      "minecraft:wither_skeleton": "2024-12-17 02:12:48 +0000",
       "minecraft:zombie": "2024-12-17 00:56:43 +0000"
     },
     "done": false
@@ -741,6 +786,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -768,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-17 02:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-17 02:01:53 +0000"
@@ -777,6 +834,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-17 01:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -849,6 +912,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-17 01:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
@@ -952,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-17 01:06:59 +0000"
@@ -970,10 +1045,12 @@
       "mutton": "2024-12-17 01:21:06 +0000",
       "apple": "2024-12-17 01:40:12 +0000",
       "bread": "2024-12-17 01:43:14 +0000",
+      "cooked_cod": "2024-12-17 02:13:30 +0000",
       "cooked_beef": "2024-12-17 01:57:57 +0000",
       "cod": "2024-12-17 01:11:23 +0000",
       "beef": "2024-12-17 01:13:02 +0000",
-      "porkchop": "2024-12-17 01:16:36 +0000"
+      "porkchop": "2024-12-17 01:16:36 +0000",
+      "cooked_salmon": "2024-12-17 02:05:54 +0000"
     },
     "done": false
   },
@@ -1091,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-17 02:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-17 02:05:03 +0000"
@@ -1121,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-17 02:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-17 00:50:16 +0000"
@@ -1130,6 +1219,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 01:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-17 02:11:27 +0000"
     },
     "done": true
   },
@@ -1154,6 +1249,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-17 02:11:37 +0000"
     },
     "done": true
   },
