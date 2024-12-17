@@ -98,3 +98,107 @@
 [00:55:11] [Server thread/INFO]: Made Albinuwu a server operator
 [00:55:13] [Server thread/INFO]: Albinuwu lost connection: Disconnected
 [00:55:13] [Server thread/INFO]: Albinuwu left the game
+[00:55:22] [User Authenticator #2/INFO]: UUID of player Albinuwu is ec444163-472c-36e3-b2ec-86ee33fcf566
+[00:55:23] [Server thread/INFO]: Albinuwu joined the game
+[00:55:23] [Server thread/INFO]: Albinuwu[/127.226.70.102:55129] logged in with entity id 1587 at ([world]-15.865621391495731, 72.52436479095665, -47.35415270535975)
+[00:55:36] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer set
+[00:55:41] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer set SpreenDMC
+[00:55:44] [Server thread/INFO]: Albinuwu issued server command: /ok
+[00:56:02] [Server thread/INFO]: Albinuwu issued server command: /skin
+[00:56:07] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer
+[00:56:22] [Server thread/INFO]: Albinuwu issued server command: /skin set DannyFresh5
+[00:56:27] [Server thread/INFO]: DannyFresh5 fell from a high place
+[00:56:32] [Server thread/INFO]: gabriel was slain by Zombie
+[00:56:36] [Server thread/INFO]: Albinuwu issued server command: /sr setcustomname SpreenDMC
+[00:56:43] [Server thread/INFO]: gabriel has made the advancement [Monster Hunter]
+[00:56:45] [Server thread/INFO]: Albinuwu issued server command: /time set day
+[00:56:45] [Server thread/INFO]: [Albinuwu: Set the time to 1000]
+[00:57:06] [Server thread/INFO]: Albinuwu issued server command: /sr applyskin DannyFresh5
+[00:57:37] [Server thread/INFO]: Albinuwu issued server command: /gamemode survival DannyFresh5
+[00:57:41] [Server thread/INFO]: Albinuwu issued server command: /gamemode survival gabriel
+[00:57:59] [Server thread/INFO]: Albinuwu issued server command: /deop Albinuwu
+[00:57:59] [Server thread/INFO]: [Albinuwu: Made Albinuwu no longer a server operator]
+[00:58:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Albinuwu> XD
+[00:58:19] [Server thread/INFO]: Made Albinuwu a server operator
+[00:58:34] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer help
+[00:58:44] [Server thread/INFO]: Albinuwu lost connection: Disconnected
+[00:58:44] [Server thread/INFO]: Albinuwu left the game
+[00:58:51] [User Authenticator #3/INFO]: UUID of player Albinuwu is ec444163-472c-36e3-b2ec-86ee33fcf566
+[00:58:52] [Server thread/INFO]: Albinuwu joined the game
+[00:58:52] [Server thread/INFO]: Albinuwu[/127.226.70.102:60649] logged in with entity id 2049 at ([world]-22.275031734881892, 76.0, -35.7123828342484)
+[00:59:45] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer
+[00:59:52] [Server thread/INFO]: Albinuwu issued server command: /skinsrestorer applyskin DannyFresh5
+[00:59:59] [Server thread/INFO]: Albinuwu issued server command: /deop Albinuwu
+[00:59:59] [Server thread/INFO]: [Albinuwu: Made Albinuwu no longer a server operator]
+[01:00:29] [User Authenticator #4/INFO]: UUID of player ItsKend is e0b8f75e-ff45-31a5-9c36-2300e138c9a0
+[01:00:31] [Server thread/INFO]: ItsKend joined the game
+[01:00:31] [Server thread/INFO]: ItsKend[/127.194.150.94:58479] logged in with entity id 2241 at ([world]-22.5, 70.0, -43.5)
+[01:00:43] [Async Chat Thread - #8/INFO]: [Not Secure] <ItsKend> q asco tlauncher
+[01:00:47] [Server thread/INFO]: Albinuwu was shot by Skeleton
+[01:00:56] [Async Chat Thread - #8/INFO]: [Not Secure] <Albinuwu> purosklauncher
+[01:01:16] [Server thread/INFO]: DannyFresh5 fell from a high place
+[01:02:21] [Server thread/INFO]: Albinuwu was slain by gabriel
+[01:02:33] [Async Chat Thread - #10/INFO]: [Not Secure] <DannyFresh5> baneen al gabriel
+[01:02:50] [Server thread/INFO]: DannyFresh5 was slain by ItsKend
+[01:03:24] [Server thread/INFO]: ItsKend was slain by Albinuwu
+[01:04:12] [Server thread/INFO]: Albinuwu was killed
+[01:04:12] [Server thread/INFO]: gabriel was killed
+[01:04:12] [Server thread/INFO]: DannyFresh5 was killed
+[01:04:12] [Server thread/INFO]: ItsKend was killed
+[01:04:12] [Server thread/INFO]: Killed 223 entities
+[01:04:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Albinuwu> foto pues
+[01:05:19] [Server thread/INFO]: Albinuwu has made the advancement [Stone Age]
+[01:05:28] [Server thread/INFO]: gabriel has made the advancement [Stone Age]
+[01:06:02] [Server thread/INFO]: Albinuwu has made the advancement [Getting an Upgrade]
+[01:06:10] [Server thread/INFO]: ItsKend has made the advancement [Stone Age]
+[01:06:11] [Server thread/INFO]: gabriel has made the advancement [Getting an Upgrade]
+[01:06:14] [Server thread/INFO]: DannyFresh5 has made the advancement [Stone Age]
+[01:06:42] [Server thread/INFO]: ItsKend has made the advancement [Getting an Upgrade]
+[01:07:08] [Server thread/INFO]: DannyFresh5 has made the advancement [Getting an Upgrade]
+[01:08:30] [Async Chat Thread - #14/INFO]: [Not Secure] <DannyFresh5> oe Albinuwu has puesto la dificultad en facil bobo
+[01:08:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Albinuwu> esta izi?
+[01:08:36] [Async Chat Thread - #14/INFO]: [Not Secure] <Albinuwu> xD
+[01:08:40] [Async Chat Thread - #14/INFO]: [Not Secure] <DannyFresh5> tu que crees
+[01:08:42] [Async Chat Thread - #14/INFO]: [Not Secure] <DannyFresh5> ctm
+[01:08:45] [Server thread/INFO]: Made Albinuwu a server operator
+[01:08:47] [Async Chat Thread - #15/INFO]: [Not Secure] <gabriel> xd
+[01:08:58] [Async Chat Thread - #15/INFO]: [Not Secure] <Albinuwu> suave
+[01:09:02] [Server thread/INFO]: Albinuwu issued server command: /deop Albinuwu
+[01:09:02] [Server thread/INFO]: [Albinuwu: Made Albinuwu no longer a server operator]
+[01:09:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/difficulty hard<--[HERE]
+[01:09:39] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> Albinuwu cambialo pelavrg
+[01:09:40] [Async Chat Thread - #15/INFO]: [Not Secure] <Albinuwu> loreinicio
+[01:09:45] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> si ves
+[01:09:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Albinuwu> ?
+[01:09:50] [Async Chat Thread - #15/INFO]: [Not Secure] <gabriel> mañana
+[01:09:57] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> mejor jugemos mañana
+[01:10:02] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> puro pato hoy
+[01:10:03] [Async Chat Thread - #15/INFO]: [Not Secure] <gabriel> no
+[01:10:03] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> valen vrg
+[01:10:12] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> tu tmb vales vrg g
+[01:10:14] [Async Chat Thread - #15/INFO]: [Not Secure] <DannyFresh5> gabriel
+[01:10:17] [Async Chat Thread - #15/INFO]: [Not Secure] <gabriel> no ya estoy full netherite
+[01:10:18] [Async Chat Thread - #15/INFO]: [Not Secure] <ItsKend> xd
+[01:11:28] [Server thread/INFO]: ItsKend has made the advancement [Monster Hunter]
+[01:11:35] [Server thread/INFO]: Made Albinuwu a server operator
+[01:11:39] [Server thread/INFO]: Albinuwu issued server command: /difficulty hard
+[01:11:39] [Server thread/INFO]: [Albinuwu: The difficulty has been set to Hard]
+[01:11:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Albinuwu> ya esta
+[01:11:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Albinuwu> mi amor
+[01:11:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Albinuwu> uwu
+[01:11:45] [Server thread/INFO]: Albinuwu issued server command: /deop Albinuwu
+[01:11:45] [Server thread/INFO]: [Albinuwu: Made Albinuwu no longer a server operator]
+[01:11:48] [Server thread/INFO]: ItsKend has made the advancement [Acquire Hardware]
+[01:11:52] [Async Chat Thread - #16/INFO]: [Not Secure] <DannyFresh5> era en hardcore
+[01:11:54] [Async Chat Thread - #16/INFO]: [Not Secure] <gabriel> suave
+[01:11:59] [Async Chat Thread - #16/INFO]: [Not Secure] <Albinuwu> AKSJDKASD
+[01:12:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Albinuwu> hardcore mis bolas
+[01:13:45] [Server thread/INFO]: gabriel has made the advancement [Sweet Dreams]
+[01:13:57] [Async Chat Thread - #18/INFO]: [Not Secure] <gabriel> modo tryhard
+[01:14:00] [Server thread/INFO]: gabriel has made the advancement [Acquire Hardware]
+[01:14:26] [Server thread/INFO]: ItsKend issued server command: /seed
+[01:14:32] [Server thread/INFO]: DannyFresh5 issued server command: /seed
+[01:14:43] [Server thread/INFO]: gabriel has made the advancement [Isn't It Iron Pick]
+[01:14:50] [Server thread/INFO]: Albinuwu has made the advancement [Acquire Hardware]
+[01:15:44] [Server thread/INFO]: gabriel has made the advancement [Suit Up]
